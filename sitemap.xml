@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://janineyylu.com/posts/yet-another-post/</loc>
-    <lastmod>2022-01-18T17:13:00-08:00</lastmod>
+    <loc>http://janineyylu.com/posts/third-post/</loc>
+    <lastmod>2022-01-18T17:13:35-08:00</lastmod>
   </url><url>
     <loc>http://janineyylu.com/</loc>
-    <lastmod>2022-01-18T17:13:00-08:00</lastmod>
+    <lastmod>2022-01-18T17:13:35-08:00</lastmod>
   </url><url>
     <loc>http://janineyylu.com/posts/</loc>
+    <lastmod>2022-01-18T17:13:35-08:00</lastmod>
+  </url><url>
+    <loc>http://janineyylu.com/posts/yet-another-post/</loc>
     <lastmod>2022-01-18T17:13:00-08:00</lastmod>
   </url><url>
     <loc>http://janineyylu.com/posts/hello-world/</loc>
