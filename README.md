@@ -1,2 +1,3 @@
-# janineyylu.github.io
-this is a humble blog.
+# Welcome!
+
+this is my humble blog on all things data science, software, and dogs.
